@@ -18,6 +18,8 @@
 
 I am actively working on expanding my knowledge and expertise in the field of artificial intelligence. Currently exploring practical applications of machine learning in various domains.
 
+[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=raysofani)](https://github.com/raysofani/github-readme-stats)
+
 ## 📬 Let's Connect!
 
 I'm always open to collaboration and discussions. Feel free to reach out for any exciting projects or just to connect and share insights.

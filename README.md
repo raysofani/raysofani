@@ -24,7 +24,7 @@ I am actively working on expanding my knowledge and expertise in the field of ar
 
 I'm always open to collaboration and discussions. Feel free to reach out for any exciting projects or just to connect and share insights.
 
-[![LinkedIn]https://www.linkedin.com/in/aniket-ray-043284265/ 
+[![LinkedIn]https://www.linkedin.com/in/aniket-ray-043284265/ <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png">
 
 Looking forward to connecting with fellow enthusiasts! 🌟
 

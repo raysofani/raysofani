@@ -6,7 +6,7 @@
 
 # About Me
 
-- 🎓 **Education:** Currently in my 2nd year of B.Tech in Computer Science and Engineering with Artificial Intelligence.
+- 🎓 **Education:** Currently in my Pre-Final year of B.Tech in Computer Science and Engineering with Artificial Intelligence.
 - 💡 **Interests:** Machine Learning, Data Science, Deep Learning.
 - 🌐 **Languages:** Python, Java, Basics of C.
 
